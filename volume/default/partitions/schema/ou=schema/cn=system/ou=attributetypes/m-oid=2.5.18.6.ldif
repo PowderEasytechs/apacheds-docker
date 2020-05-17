@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.18.6,ou=attributeTypes,cn=system,ou=schema
+entryCSN: 20200517234943.340000Z#000000#000#000000
+m-usage: DIRECTORY_OPERATION
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.45
+m-singlevalue: TRUE
+entryUUID: 859694f0-0eeb-433b-bdf1-b3c2730ce3fc
+m-description: RFC3672: defines a collection of entries within an administrative
+  area
+m-obsolete: FALSE
+m-oid: 2.5.18.6
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234951.494Z
+m-name: subtreeSpecification
+entryParentId: e345eee6-b18f-41fc-8959-70741e3006ba

@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.2.2.16,ou=attributeTypes,cn=apachedns,ou=schema
+entryCSN: 20200517234944.825000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: 5d00207b-6619-4058-92b3-c63b15d68895
+m-equality: integerMatch
+m-description: The unsigned 16 bit port on this target host of this service
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.2.2.16
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234950.363Z
+m-name: apacheDnsServicePort
+entryParentId: 01a37a78-67cd-4602-9400-0f6605c5aabc

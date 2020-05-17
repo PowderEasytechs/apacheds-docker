@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.5322.10.1.1,ou=attributeTypes,cn=krb5kdc,ou=schema
+entryCSN: 20200517234942.244000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+entryUUID: 14fea54d-3282-47d8-bc41-c723de3cef4a
+m-equality: caseExactIA5Match
+m-description: The unparsed Kerberos principal name
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.5322.10.1.1
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234952.872Z
+m-name: krb5PrincipalName
+entryParentId: 941304f9-8a5d-4322-bdb0-14e1cad543a1

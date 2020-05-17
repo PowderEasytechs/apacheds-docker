@@ -1,0 +1,10 @@
+version: 1
+dn: ou=ditContentRules,cn=cosine,ou=schema
+entryCSN: 20200517234941.377000Z#000000#000#000000
+ou: ditcontentrules
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234952.007Z
+creatorsname: uid=admin,ou=system
+entryUUID: f9a2dbf3-a0e7-4649-a66b-f65a857ebdbf
+entryParentId: 8defb682-7653-46fa-a852-4e079a4fd8fc

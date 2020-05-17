@@ -1,0 +1,24 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.6.3,ou=objectClasses,cn=dhcp,ou=schema
+entryCSN: 20200517234941.854000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 5c79ef89-01a7-44f1-acd2-c4cc3e4d34fa
+m-may: dhcpRange
+m-may: dhcpPoolDN
+m-may: dhcpGroupDN
+m-may: dhcpHostDN
+m-may: dhcpClassesDN
+m-may: dhcpLeasesDN
+m-may: dhcpOptionsDN
+m-may: dhcpStatements
+m-supobjectclass: top
+m-must: cn
+m-must: dhcpNetMask
+m-description: This class defines a subnet. This is a container object.
+m-oid: 2.16.840.1.113719.1.203.6.3
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234952.097Z
+m-name: dhcpSubnet
+entryParentId: e578cdf9-79e4-4284-8aec-47f142c5d8a6

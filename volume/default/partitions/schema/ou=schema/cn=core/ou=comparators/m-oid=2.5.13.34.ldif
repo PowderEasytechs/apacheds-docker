@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=2.5.13.34,ou=comparators,cn=core,ou=schema
+entryCSN: 20200517234946.981000Z#000000#000#000000
+m-oid: 2.5.13.34
+objectclass: metaComparator
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234950.291Z
+m-name: certificateEqualityMatch
+creatorsname: uid=admin,ou=system
+entryUUID: 751ff8e2-6645-4c4d-a308-827f4023f73d
+m-fqcn: org.apache.directory.api.ldap.model.schema.comparators.CertificateCompar
+ ator
+entryParentId: e7544a90-2031-48da-929d-087b11701a41

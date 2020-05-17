@@ -1,0 +1,15 @@
+dn: ads-indexAttributeId=apacheRdn,ou=indexes,ads-partitionId=difacile,ou=partit
+ ions,ads-directoryServiceId=default,ou=config
+ads-indexhasreverse: TRUE
+entryCSN: 20200517234940.074000Z#000000#000#000000
+objectclass: ads-index
+objectclass: ads-jdbmIndex
+objectclass: ads-base
+objectclass: top
+createTimestamp: 20200517234940.074Z
+creatorsName: uid=admin,ou=system
+ads-indexattributeid: apacheRdn
+ads-enabled: TRUE
+entryUUID: 272f6330-0347-45ee-a170-0d0c1a446b1b
+ads-indexcachesize: 100
+entryParentId: e10217ba-a01d-4e58-b80f-3ff104620239

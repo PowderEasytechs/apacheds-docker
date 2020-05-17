@@ -1,0 +1,22 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.2.12,ou=objectClasses,cn=samba,ou=schema
+entryCSN: 20200517234947.610000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 7631dcf2-0221-4b43-99bf-0b37b9a9528d
+m-may: sambaBoolOption
+m-may: sambaIntegerOption
+m-may: sambaStringListOption
+m-may: sambaStringOption
+m-may: description
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: sambaOptionName
+m-description: Samba Configuration Option
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.2.12
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20200517234949.593Z
+m-name: sambaConfigOption
+entryParentId: fcc30380-7026-41c9-a8e4-4c5aa422cebc

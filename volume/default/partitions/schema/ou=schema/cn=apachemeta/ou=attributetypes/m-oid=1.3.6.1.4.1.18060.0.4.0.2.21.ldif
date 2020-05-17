@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.0.2.21,ou=attributeTypes,cn=apachemeta,ou=schema
+entryCSN: 20200517234941.062000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.38
+m-singlevalue: FALSE
+entryUUID: 4edfb8cd-da6f-4a4b-9f4c-7b2b99c67c90
+m-equality: caseIgnoreMatch
+m-description: The name form associated with this DITStructure rule
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+m-oid: 1.3.6.1.4.1.18060.0.4.0.2.21
+createTimestamp: 20200517234952.762Z
+m-name: m-form
+entryParentId: d90d6d7f-5967-4604-a687-d48b5614894c

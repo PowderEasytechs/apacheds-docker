@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.6.16,ou=objectClasses,cn=core,ou=schema
+entryCSN: 20200517234946.395000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 9bf8e223-ed65-4981-90d1-cd1570e907ab
+m-may: crossCertificatePair
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: top
+m-must: authorityRevocationList
+m-must: certificateRevocationList
+m-must: cACertificate
+m-description: X.509 certificate authority
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+m-oid: 2.5.6.16
+createTimestamp: 20200517234949.871Z
+m-name: certificationAuthority
+entryParentId: 2e3e9e5b-677a-4bb5-9e1b-2604b739afa5

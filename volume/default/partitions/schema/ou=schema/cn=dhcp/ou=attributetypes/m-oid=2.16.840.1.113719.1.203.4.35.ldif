@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.4.35,ou=attributeTypes,cn=dhcp,ou=schema
+entryCSN: 20200517234942.046000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.40
+m-singlevalue: TRUE
+entryUUID: 72fae9af-02d7-4346-9ab6-946cfc068550
+m-equality: caseIgnoreIA5Match
+m-description: HashBucketAssignment bit map for the DHCP Server, as defined in D
+ HC Load Balancing Algorithm [RFC 3074].
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.4.35
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234948.929Z
+m-name: dhcpHashBucketAssignment
+entryParentId: 2b0ca060-41b7-4304-ac28-11e4fb5299e4

@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.121,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20200517234945.247000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: 7a533a29-5f8c-40c8-9072-cc355df6684c
+m-equality: booleanMatch
+m-description: Tells if the changeLog system is visible by the clients
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.121
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20200517234951.031Z
+m-name: ads-changeLogExposed
+entryParentId: 004ceed1-b2b9-4014-9a80-990332c52723

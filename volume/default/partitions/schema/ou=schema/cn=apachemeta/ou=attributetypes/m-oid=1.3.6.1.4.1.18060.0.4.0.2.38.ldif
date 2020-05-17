@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.0.2.38,ou=attributeTypes,cn=apachemeta,ou=schema
+entryCSN: 20200517234941.089000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: 8ac67a0b-0f54-4a66-932c-d1193524f1fd
+m-equality: caseIgnoreMatch
+m-description: The dependencies of a schema: other schema names.
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+m-oid: 1.3.6.1.4.1.18060.0.4.0.2.38
+createTimestamp: 20200517234952.059Z
+m-name: m-dependencies
+entryParentId: d90d6d7f-5967-4604-a687-d48b5614894c

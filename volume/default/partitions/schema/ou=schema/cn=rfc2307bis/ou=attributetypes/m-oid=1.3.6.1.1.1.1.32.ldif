@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.1.32,ou=attributeTypes,cn=rfc2307bis,ou=schema
+entryCSN: 20200517234944.406000Z#000000#000#000000
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+entryUUID: e9cf82ad-7ce7-4bc8-afc9-7e144a12cf13
+m-substr: caseExactIA5SubstringsMatch
+m-equality: caseExactIA5Match
+m-description: Automount Key value
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 1.3.6.1.1.1.1.32
+createTimestamp: 20200517234951.377Z
+m-name: automountKey
+entryParentId: ff7721a3-ddee-492f-a064-b7c7e963c23d

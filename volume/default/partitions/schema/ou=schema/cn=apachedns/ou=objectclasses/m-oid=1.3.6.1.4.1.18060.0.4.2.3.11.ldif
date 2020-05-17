@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.2.3.11,ou=objectClasses,cn=apachedns,ou=schema
+entryCSN: 20200517234944.734000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 9b055b5c-78e9-4cae-849a-3aa31da45295
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: apacheDnsAbstractRecord
+m-must: apacheDnsDomainName
+m-must: apacheDnsIpAddress
+m-description: A non-authoritative referral or glue address record
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.2.3.11
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234948.701Z
+m-name: apacheDnsReferralAddress
+entryParentId: 3705a6c7-e71f-4143-9a03-0dd4e21a0a7b

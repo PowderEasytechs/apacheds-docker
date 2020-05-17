@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.63,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20200517234947.682000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: 8c74304a-5f34-4d9b-954f-1fb9ee162aae
+m-equality: integerMatch
+m-description: Lockout duration in minutes (default: 30, -1 => forever)
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.1.63
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20200517234951.979Z
+m-name: sambaLockoutDuration
+entryParentId: 46c58297-a251-4a74-b93a-62ce215bf522

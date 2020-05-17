@@ -1,0 +1,17 @@
+version: '3.6'
+
+services:
+    ldap:
+        build:
+            context: ./
+            dockerfile: Dockerfile
+        ports:
+            - "10389:10389"
+            - "10636:10636"
+            - "60088:60088"
+            - "60464:60464"
+            - "8080:8080"
+            - "8443:8443"
+        volumes:
+            #- ./instance/config.ldif:/bootstrap/conf/config.ldif:ro
+           - ./volume:/var/lib/apacheds

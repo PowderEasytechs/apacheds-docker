@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.1.31,ou=attributeTypes,cn=rfc2307bis,ou=schema
+entryCSN: 20200517234944.412000Z#000000#000#000000
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+entryUUID: 66ce1885-a2f1-4f54-bbbc-7233619f3674
+m-substr: caseExactIA5SubstringsMatch
+m-equality: caseExactIA5Match
+m-description: automount Map Name
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 1.3.6.1.1.1.1.31
+createTimestamp: 20200517234951.159Z
+m-name: automountMapName
+entryParentId: ff7721a3-ddee-492f-a064-b7c7e963c23d

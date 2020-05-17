@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.2.2,ou=objectClasses,cn=nis,ou=schema
+entryCSN: 20200517234946.007000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: d29ab8f8-eb82-4d92-b2c2-bc9d8c62fd5c
+m-may: userPassword
+m-may: memberUid
+m-may: description
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: cn
+m-must: gidNumber
+m-description: Abstraction of a group of accounts
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.2.2
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234950.012Z
+m-name: posixGroup
+entryParentId: 01b2e454-3dab-4d6d-967c-c20eed8f7c13

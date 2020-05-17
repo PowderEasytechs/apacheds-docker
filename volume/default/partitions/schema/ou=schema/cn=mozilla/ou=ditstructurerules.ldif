@@ -1,0 +1,10 @@
+version: 1
+dn: ou=ditStructureRules,cn=mozilla,ou=schema
+entryCSN: 20200517234942.461000Z#000000#000#000000
+ou: ditstructurerules
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234952.168Z
+creatorsname: uid=admin,ou=system
+entryUUID: b7b90fed-fc56-420a-933d-b6e2e824c7d1
+entryParentId: d7818293-4dca-4a3e-9eec-dec90c135226

@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.46,ou=attributeTypes,cn=apache,ou=schema
+entryCSN: 20200517234947.258000Z#000000#000#000000
+m-usage: DSA_OPERATION
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: TRUE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+entryUUID: 306a7aad-3dca-4ed4-a5b6-acb4411c4fe7
+m-equality: caseIgnoreMatch
+m-description: type of change operation
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.46
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234948.695Z
+m-name: changeType
+entryParentId: 867dde51-e349-4b9f-ae8b-a389b2dd2f84

@@ -1,0 +1,10 @@
+version: 1
+dn: ou=ditContentRules,cn=inetorgperson,ou=schema
+entryCSN: 20200517234945.848000Z#000000#000#000000
+ou: ditcontentrules
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234949.643Z
+creatorsname: uid=admin,ou=system
+entryUUID: e6e33078-d9f9-4e9d-8eda-7bf6d3207063
+entryParentId: c471b92d-433c-4314-8846-b50ab421f3de

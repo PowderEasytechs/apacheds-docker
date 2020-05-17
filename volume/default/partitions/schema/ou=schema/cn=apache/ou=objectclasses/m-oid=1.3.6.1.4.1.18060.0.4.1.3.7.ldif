@@ -1,0 +1,16 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.7,ou=objectClasses,cn=apache,ou=schema
+entryCSN: 20200517234947.059000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 57eb7289-9493-4ec6-98f7-148886a18091
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: unixFilePath
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.7
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234950.068Z
+m-name: unixFile
+entryParentId: 3853f747-551e-4b39-8cfa-78aaae520a8d

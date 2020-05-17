@@ -1,0 +1,16 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.250,ou=objectClasses,cn=adsconfig,ou=schema
+entryCSN: 20200517234945.052000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 80a839dc-b69d-4962-b51e-7e0026b4dd4b
+m-typeobjectclass: ABSTRACT
+m-supobjectclass: ads-base
+m-must: ads-serverId
+m-description: The server ObjectClass
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.250
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20200517234949.181Z
+m-name: ads-server
+entryParentId: c7745863-685c-436f-8d1c-45ce654aad5d

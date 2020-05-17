@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.402,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20200517234945.214000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: 48134e16-fee1-48c3-8fad-c2c2ee42c994
+m-equality: booleanMatch
+m-description: Whether empty addresses are allowed
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.402
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20200517234950.700Z
+m-name: ads-krbEmptyAddressesAllowed
+entryParentId: 004ceed1-b2b9-4014-9a80-990332c52723

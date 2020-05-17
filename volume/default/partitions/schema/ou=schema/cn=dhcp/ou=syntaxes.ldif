@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxes,cn=dhcp,ou=schema
+entryCSN: 20200517234941.782000Z#000000#000#000000
+ou: syntaxes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234950.819Z
+creatorsname: uid=admin,ou=system
+entryUUID: 10cfd968-8af1-4d33-a1a7-68ae93cf0d92
+entryParentId: d13b1a72-7d32-40e5-ba36-e6a9bbb1d4c3

@@ -1,0 +1,10 @@
+version: 1
+dn: ou=matchingRuleUse,cn=corba,ou=schema
+entryCSN: 20200517234947.512000Z#000000#000#000000
+ou: matchingruleuse
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234951.198Z
+creatorsname: uid=admin,ou=system
+entryUUID: fccf4356-1a07-4c78-b127-05061c63096a
+entryParentId: 35951504-9a08-4347-a229-f3f63dca8c70

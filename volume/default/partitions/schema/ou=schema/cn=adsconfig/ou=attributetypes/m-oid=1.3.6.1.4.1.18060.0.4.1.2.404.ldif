@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.404,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20200517234945.339000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: 051d753e-f87d-4922-8bdb-6cda53113722
+m-equality: booleanMatch
+m-description: Whether pre-authentication by encrypted timestamp is required
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.404
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20200517234952.924Z
+m-name: ads-krbPaEncTimestampRequired
+entryParentId: 004ceed1-b2b9-4014-9a80-990332c52723

@@ -1,0 +1,10 @@
+version: 1
+dn: ou=nameForms,cn=adsconfig,ou=schema
+entryCSN: 20200517234944.866000Z#000000#000#000000
+ou: nameforms
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234950.647Z
+creatorsname: uid=admin,ou=system
+entryUUID: f528f007-bf38-4b4b-9fe7-73ede8d31d10
+entryParentId: 4e38a750-33e9-4205-a98a-ce319333cd59

@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.5.4.1,ou=attributeTypes,cn=system,ou=schema
+entryCSN: 20200517234943.451000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: TRUE
+entryUUID: cdfe277d-9fe9-424c-9226-c0536bdc56df
+m-equality: distinguishedNameMatch
+m-description: RFC2256: name of aliased object
+m-obsolete: FALSE
+m-oid: 2.5.4.1
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234951.614Z
+m-name: aliasedObjectName
+m-name: aliasedEntryName
+entryParentId: e345eee6-b18f-41fc-8959-70741e3006ba

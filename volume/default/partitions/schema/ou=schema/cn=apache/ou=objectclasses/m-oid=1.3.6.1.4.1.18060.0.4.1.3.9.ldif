@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.9,ou=objectClasses,cn=apache,ou=schema
+entryCSN: 20200517234947.089000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: ab13aaab-fb61-43db-9457-2cf1efd4ffa1
+m-may: comparators
+m-may: normalizers
+m-may: syntaxCheckers
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: subschema
+m-description: RFC2252 extension for controlling subschema (sub)entry in ApacheD
+ S
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.9
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234950.603Z
+m-name: apacheSubschema
+entryParentId: 3853f747-551e-4b39-8cfa-78aaae520a8d

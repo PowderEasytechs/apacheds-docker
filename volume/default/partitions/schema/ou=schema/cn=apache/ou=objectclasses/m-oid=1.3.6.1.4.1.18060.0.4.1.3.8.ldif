@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.8,ou=objectClasses,cn=apache,ou=schema
+entryCSN: 20200517234947.071000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 5ef6e9cc-ffd7-4da5-8afe-47923951719f
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: fullyQualifiedJavaClassName
+m-must: javaClassByteCode
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.8
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234951.652Z
+m-name: javaClass
+entryParentId: 3853f747-551e-4b39-8cfa-78aaae520a8d

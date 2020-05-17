@@ -1,0 +1,32 @@
+version: 1
+
+#dn: dc=it
+#objectClass: extensibleObject
+#objectClass: domain
+#objectClass: top
+#dc: it
+
+#!RESULT OK
+#!CONNECTION ldap://localhost:10389
+#!DATE 2020-05-18T01:15:49.284
+dn: dc=difacile,dc=it
+objectClass: extensibleObject
+objectClass: domain
+objectClass: top
+dc: difacile
+
+#!RESULT OK
+#!CONNECTION ldap://localhost:10389
+#!DATE 2020-05-18T01:15:49.344
+dn: ou=Users,dc=difacile,dc=it
+objectClass: organizationalUnit
+objectClass: top
+ou: Users
+
+#!RESULT OK
+#!CONNECTION ldap://localhost:10389
+#!DATE 2020-05-18T01:15:49.395
+dn: ou=Groups,dc=difacile,dc=it
+objectClass: organizationalUnit
+objectClass: top
+ou: Groups

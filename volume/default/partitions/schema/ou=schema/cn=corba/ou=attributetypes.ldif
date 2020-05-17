@@ -1,0 +1,10 @@
+version: 1
+dn: ou=attributeTypes,cn=corba,ou=schema
+entryCSN: 20200517234947.504000Z#000000#000#000000
+ou: attributetypes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234949.908Z
+creatorsname: uid=admin,ou=system
+entryUUID: df2db276-f8a8-490e-82e2-b7ff913487c3
+entryParentId: 35951504-9a08-4347-a229-f3f63dca8c70

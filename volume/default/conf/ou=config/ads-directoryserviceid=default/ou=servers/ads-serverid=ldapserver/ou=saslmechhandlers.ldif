@@ -1,0 +1,10 @@
+dn: ou=saslMechHandlers,ads-serverId=ldapServer,ou=servers,ads-directoryServiceI
+ d=default,ou=config
+entryCSN: 20200517234940.227000Z#000000#000#000000
+ou: saslMechHandlers
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234940.227Z
+creatorsName: uid=admin,ou=system
+entryUUID: 5706b557-1277-424f-952a-f85f11ede9f9
+entryParentId: 716f26db-bc79-44e7-a921-e675f5a37530

@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.22,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20200517234947.680000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: 7a938834-56a1-4369-ad64-beaa080b24c6
+m-equality: integerMatch
+m-description: Next NT rid to give out for groups
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.1.22
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20200517234950.443Z
+m-name: sambaNextGroupRid
+entryParentId: 46c58297-a251-4a74-b93a-62ce215bf522

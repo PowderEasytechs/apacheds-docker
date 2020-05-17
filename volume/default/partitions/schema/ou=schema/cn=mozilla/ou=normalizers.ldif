@@ -1,0 +1,10 @@
+version: 1
+dn: ou=normalizers,cn=mozilla,ou=schema
+entryCSN: 20200517234942.467000Z#000000#000#000000
+ou: normalizers
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234952.741Z
+creatorsname: uid=admin,ou=system
+entryUUID: 0ba823f5-c28e-47f2-b911-cd0e84e192ac
+entryParentId: d7818293-4dca-4a3e-9eec-dec90c135226

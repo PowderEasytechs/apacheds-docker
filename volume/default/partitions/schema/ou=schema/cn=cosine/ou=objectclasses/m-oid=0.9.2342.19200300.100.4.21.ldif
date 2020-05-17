@@ -1,0 +1,16 @@
+version: 1
+dn: m-oid=0.9.2342.19200300.100.4.21,ou=objectClasses,cn=cosine,ou=schema
+entryCSN: 20200517234941.440000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 703998b0-cccb-4b22-b8cc-545bed5a3247
+m-may: dSAQuality
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: dSA
+m-obsolete: FALSE
+m-oid: 0.9.2342.19200300.100.4.21
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234952.223Z
+m-name: pilotDSA
+entryParentId: ea2ec168-f8d3-449f-ab6e-3080a4ab741e

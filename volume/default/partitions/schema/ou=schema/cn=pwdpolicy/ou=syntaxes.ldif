@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxes,cn=pwdpolicy,ou=schema
+entryCSN: 20200517234944.442000Z#000000#000#000000
+ou: syntaxes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234950.242Z
+creatorsname: uid=admin,ou=system
+entryUUID: eec35463-8839-49dc-bc2a-b2a12aa7c940
+entryParentId: d672919d-c856-4f22-99d4-82b8dd170bd6

@@ -1,0 +1,10 @@
+version: 1
+dn: ou=attributeTypes,cn=mozilla,ou=schema
+entryCSN: 20200517234942.454000Z#000000#000#000000
+ou: attributetypes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234950.938Z
+creatorsname: uid=admin,ou=system
+entryUUID: 0f141260-2637-4f6f-a4a3-052263b2fa74
+entryParentId: d7818293-4dca-4a3e-9eec-dec90c135226

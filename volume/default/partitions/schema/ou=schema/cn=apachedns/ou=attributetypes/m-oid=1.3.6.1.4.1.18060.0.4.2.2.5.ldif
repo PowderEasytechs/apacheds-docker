@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.2.2.5,ou=attributeTypes,cn=apachedns,ou=schema
+entryCSN: 20200517234944.806000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+entryUUID: ad9f1c17-96a7-401c-9d59-6c32f6484afb
+m-equality: caseIgnoreIA5Match
+m-description: A 4 octet IP address
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.2.2.5
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234950.491Z
+m-name: apacheDnsIpAddress
+entryParentId: 01a37a78-67cd-4602-9400-0f6605c5aabc

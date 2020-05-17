@@ -1,0 +1,22 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.2.4,ou=objectClasses,cn=samba,ou=schema
+entryCSN: 20200517234947.619000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 233a2103-ea8e-4d19-aa66-e9ac0670a8d5
+m-may: description
+m-may: displayName
+m-may: sambaSIDList
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: top
+m-must: gidNumber
+m-must: sambaGroupType
+m-must: sambaSID
+m-description: Samba Group Mapping
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.2.4
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20200517234951.076Z
+m-name: sambaGroupMapping
+entryParentId: fcc30380-7026-41c9-a8e4-4c5aa422cebc

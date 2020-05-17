@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.1.3.1,ou=objectClasses,cn=core,ou=schema
+entryCSN: 20200517234946.375000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 25f2429f-3088-4989-a5da-17edcbcaedec
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: top
+m-must: uid
+m-description: RFC2377: uid object
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.3.1
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234952.131Z
+m-name: uidObject
+entryParentId: 2e3e9e5b-677a-4bb5-9e1b-2604b739afa5

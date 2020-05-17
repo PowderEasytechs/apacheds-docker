@@ -1,0 +1,22 @@
+version: 1
+dn: m-oid=2.5.6.3,ou=objectClasses,cn=core,ou=schema
+entryCSN: 20200517234946.325000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 22645528-9198-4692-8250-ec9e5424a553
+m-may: searchGuide
+m-may: description
+m-may: street
+m-may: seeAlso
+m-may: st
+m-may: l
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-description: RFC2256: a locality
+m-obsolete: FALSE
+m-oid: 2.5.6.3
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20200517234951.521Z
+m-name: locality
+entryParentId: 2e3e9e5b-677a-4bb5-9e1b-2604b739afa5

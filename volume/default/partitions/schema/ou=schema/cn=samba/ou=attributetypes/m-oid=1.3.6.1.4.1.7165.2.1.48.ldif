@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.48,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20200517234947.736000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: 57fd7d53-919f-4d3b-ad74-792fc2bb2079
+m-equality: integerMatch
+m-description: Bad password attempt count
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.1.48
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20200517234952.396Z
+m-name: sambaBadPasswordCount
+entryParentId: 46c58297-a251-4a74-b93a-62ce215bf522

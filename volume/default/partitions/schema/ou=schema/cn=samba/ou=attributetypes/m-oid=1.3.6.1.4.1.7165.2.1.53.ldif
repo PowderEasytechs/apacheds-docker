@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.53,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20200517234947.716000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: FALSE
+entryUUID: ea30a435-eb95-4144-8fc1-73eece0da5cc
+m-equality: caseIgnoreIA5Match
+m-description: Trust Password Flags
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.1.53
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20200517234950.694Z
+m-name: sambaTrustFlags
+entryParentId: 46c58297-a251-4a74-b93a-62ce215bf522

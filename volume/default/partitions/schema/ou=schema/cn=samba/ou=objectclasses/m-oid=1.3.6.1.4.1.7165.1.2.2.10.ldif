@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.1.2.2.10,ou=objectClasses,cn=samba,ou=schema
+entryCSN: 20200517234947.623000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 3752c2a0-5950-4c06-9faf-34100a5c88e1
+m-may: description
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: top
+m-description: Samba Configuration Section
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.1.2.2.10
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20200517234952.432Z
+m-name: sambaConfig
+entryParentId: fcc30380-7026-41c9-a8e4-4c5aa422cebc

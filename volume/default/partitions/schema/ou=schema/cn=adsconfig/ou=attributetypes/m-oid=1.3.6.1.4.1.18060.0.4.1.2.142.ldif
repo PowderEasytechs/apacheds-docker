@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.142,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20200517234945.591000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 765d649c-e02b-4dc5-b40b-1947ff85a917
+m-substr: caseExactSubstringsMatch
+m-equality: caseExactMatch
+m-description: The place on disk where the journal is stored.
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.142
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20200517234951.644Z
+m-name: ads-journalWorkingDir
+entryParentId: 004ceed1-b2b9-4014-9a80-990332c52723

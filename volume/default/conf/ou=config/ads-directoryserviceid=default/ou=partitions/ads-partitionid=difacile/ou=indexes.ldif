@@ -1,0 +1,10 @@
+dn: ou=indexes,ads-partitionId=difacile,ou=partitions,ads-directoryServiceId=def
+ ault,ou=config
+entryCSN: 20200517234940.070000Z#000000#000#000000
+ou: indexes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20200517234940.070Z
+creatorsName: uid=admin,ou=system
+entryUUID: e10217ba-a01d-4e58-b80f-3ff104620239
+entryParentId: 2a442bba-c59a-4c0b-83f4-7ec4c32c84dc

@@ -1,0 +1,12 @@
+version: 1
+dn: cn=java,ou=schema
+entryCSN: 20200517234940.617000Z#000000#000#000000
+cn: java
+objectclass: metaSchema
+objectclass: top
+createTimestamp: 20200517234951.888Z
+m-dependencies: system
+m-dependencies: core
+creatorsname: uid=admin,ou=system
+entryUUID: 8d9084ac-bb49-4068-a980-ceae9e6b6b2d
+entryParentId: 95b066f6-cc72-4e10-b42d-3b20944fc9af

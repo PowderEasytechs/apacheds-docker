@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.100,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20200517234945.294000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: cdfb4ac1-6324-47e6-a899-446226a62362
+m-substr: caseExactSubstringsMatch
+m-supattributetype: name
+m-equality: caseExactMatch
+m-description: The DirectoryService ID
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.100
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20200517234950.396Z
+m-name: ads-directoryServiceId
+entryParentId: 004ceed1-b2b9-4014-9a80-990332c52723
